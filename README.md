@@ -6,7 +6,7 @@ iOS app developer
 
 ![Calculate Child Support](/images/calculateChildSupport.png)
 
-Calculate Child Support
+**Calculate Child Support**
 
 *An app used to calculate child support payments.*
 
