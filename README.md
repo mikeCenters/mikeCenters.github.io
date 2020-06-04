@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Mike Centers
+### iOS app developer
 
 You can use the [editor on GitHub](https://github.com/mikeCenters/mikeCenters.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
