@@ -9,15 +9,25 @@
 /* Begin PBXFileReference section */
 		BA660E0F2489630000522512 /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = _config.yml; sourceTree = "<group>"; };
 		BA660E102489630100522512 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		BA660E1224896AB000522512 /* calculateChildSupport.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calculateChildSupport.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		BA660E08248962A900522512 = {
 			isa = PBXGroup;
 			children = (
+				BA660E1124896A6A00522512 /* images */,
 				BA660E0F2489630000522512 /* _config.yml */,
 				BA660E102489630100522512 /* README.md */,
 			);
+			sourceTree = "<group>";
+		};
+		BA660E1124896A6A00522512 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				BA660E1224896AB000522512 /* calculateChildSupport.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
