@@ -14,7 +14,8 @@ The goal of this project is to provide users with clarity for informed decision 
 Pending Functionality:
 - Future releases will include export functionality for state distribution and hearing presentation. 
 
-
+**Privacy Policy**
+This app collects no data from the user. 
 
 
 
