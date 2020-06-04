@@ -5,7 +5,6 @@
 ### Projects
 
 ![Calculate Child Support](/images/calculateChildSupport.png)
-Format: ![Alt Text](url)
 
 
 
