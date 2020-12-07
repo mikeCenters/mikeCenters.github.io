@@ -22,10 +22,9 @@ The goal of this project is to provide users with clarity for informed decision 
 
 <a href="https://apps.apple.com/us/app/family-law-tools/id1516711719" target="_blank">App Store</a>
 
-<a href="https://mikecenters.github.io/app/documents/Family-Law-Tools/Terms-of-Service.pdf" target="_blank">Terms of Service</a>
+<a href="https://mikecenters.github.io/app/Family-Law-Tools/documents/Terms-of-Service.pdf" target="_blank">Terms of Service</a>
 
-<a href="https://mikecenters.github.io/app/documents/Family-Law-Tools/Privacy-Policy.pdf" target="_blank">Privacy Policy</a>
+<a href="https://mikecenters.github.io/app/Family-Law-Tools/documents/Privacy-Policy.pdf" target="_blank">Privacy Policy</a>
 
-## Contact or support
-### Support:
+## Support
 support.lawtools@icloud.com
