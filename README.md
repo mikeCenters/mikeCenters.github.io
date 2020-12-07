@@ -19,10 +19,10 @@ The goal of this project is to provide users with clarity for informed decision 
 - Calculate Child Support payments with an annual, monthly, and bi-weekly format.
 - Export state worksheets used to determine the calculation.
 
+**Links**
 
-**Privacy Policy**
+[App Store](https://apps.apple.com/us/app/family-law-tools/id1516711719)
 [Privacy Policy](/documents/Family_Law_Tools\Privacy_Policy.pdf)
-
 [Terms of Service](/documents/Family_Law_Tools\Terms_of_Service.pdf)
 
 
