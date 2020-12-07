@@ -7,6 +7,7 @@ iOS app developer
 ![Family Law Tools](/images/Logo_FamilyLawTools.png)
 
 **Family Law Tools**
+
 Current Version: v: 1.5
 
 *An app used to calculate child support payments and export Family Law Worksheets.*
@@ -20,14 +21,11 @@ The goal of this project is to provide users with clarity for informed decision 
 
 
 **Privacy Policy**
-[Privacy Policy](/documents/Family\ Law\ Tools\ Privacy\ Policy.pdf)
+[Privacy Policy](/documents/Family_Law_Tools\Privacy_Policy.pdf)
 
-[Terms of Service](/documents/Family\ Law\ Tools\ Terms\ of\ Service.pdf)
+[Terms of Service](/documents/Family_Law_Tools\Terms_of_Service.pdf)
 
 
 ## Contact or support
 ### Support:
 support.lawtools@icloud.com
-
-
-*coming soon...*

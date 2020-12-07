@@ -10,11 +10,18 @@
 		BA660E0F2489630000522512 /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = _config.yml; sourceTree = "<group>"; };
 		BA660E102489630100522512 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BA660E1224896AB000522512 /* Logo_FamilyLawTools.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo_FamilyLawTools.png; sourceTree = "<group>"; };
-		BA7CDF91257DB78800EC7D4C /* Family Law Tools Privacy Policy.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Family Law Tools Privacy Policy.pdf"; sourceTree = "<group>"; };
-		BA7CDF92257DB78800EC7D4C /* Family Law Tools Terms of Service.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Family Law Tools Terms of Service.pdf"; sourceTree = "<group>"; };
+		BA7CDF91257DB78800EC7D4C /* Privacy_Policy.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Privacy_Policy.pdf; sourceTree = "<group>"; };
+		BA7CDF92257DB78800EC7D4C /* Terms_of_Service.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Terms_of_Service.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
+		BA46FB28257DBD850092B3D6 /* Family_Law_Tools */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Family_Law_Tools;
+			sourceTree = "<group>";
+		};
 		BA660E08248962A900522512 = {
 			isa = PBXGroup;
 			children = (
@@ -36,8 +43,9 @@
 		BA7CDF93257DB79700EC7D4C /* documents */ = {
 			isa = PBXGroup;
 			children = (
-				BA7CDF91257DB78800EC7D4C /* Family Law Tools Privacy Policy.pdf */,
-				BA7CDF92257DB78800EC7D4C /* Family Law Tools Terms of Service.pdf */,
+				BA46FB28257DBD850092B3D6 /* Family_Law_Tools */,
+				BA7CDF91257DB78800EC7D4C /* Privacy_Policy.pdf */,
+				BA7CDF92257DB78800EC7D4C /* Terms_of_Service.pdf */,
 			);
 			path = documents;
 			sourceTree = "<group>";
