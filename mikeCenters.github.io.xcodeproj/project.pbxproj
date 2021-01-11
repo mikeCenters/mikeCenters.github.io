@@ -72,9 +72,17 @@
 			path = documents;
 			sourceTree = "<group>";
 		};
+		BAD967CD25AC173600A6A7EA /* images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
 		BAF6298C25ABFFBA0072EBED /* Baby-Affinity */ = {
 			isa = PBXGroup;
 			children = (
+				BAD967CD25AC173600A6A7EA /* images */,
 				BAF6298D25ABFFC90072EBED /* documents */,
 			);
 			path = "Baby-Affinity";
