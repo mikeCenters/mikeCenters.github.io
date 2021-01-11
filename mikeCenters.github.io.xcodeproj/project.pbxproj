@@ -11,8 +11,8 @@
 		BA660E0F2489630000522512 /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = _config.yml; sourceTree = "<group>"; };
 		BA660E102489630100522512 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BA660E1224896AB000522512 /* Logo-FamilyLawTools.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Logo-FamilyLawTools.png"; sourceTree = "<group>"; };
-		BAF6298825ABF4FA0072EBED /* Privacy-Policy.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Privacy-Policy.pdf"; sourceTree = "<group>"; };
-		BAF6298925ABF4FA0072EBED /* Terms-of-Service.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Terms-of-Service.pdf"; sourceTree = "<group>"; };
+		BAF6298A25ABF6970072EBED /* Terms-of-Service.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Terms-of-Service.pdf"; sourceTree = "<group>"; };
+		BAF6298B25ABF6970072EBED /* Privacy-Policy.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Privacy-Policy.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -61,8 +61,8 @@
 		BA7CDF93257DB79700EC7D4C /* documents */ = {
 			isa = PBXGroup;
 			children = (
-				BAF6298925ABF4FA0072EBED /* Terms-of-Service.pdf */,
-				BAF6298825ABF4FA0072EBED /* Privacy-Policy.pdf */,
+				BAF6298B25ABF6970072EBED /* Privacy-Policy.pdf */,
+				BAF6298A25ABF6970072EBED /* Terms-of-Service.pdf */,
 				BA46FC1D2580993E0092B3D6 /* EULA.pdf */,
 			);
 			path = documents;
