@@ -7,18 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		BA46FC1D2580993E0092B3D6 /* EULA.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = EULA.pdf; sourceTree = "<group>"; };
 		BA660E0F2489630000522512 /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = _config.yml; sourceTree = "<group>"; };
 		BA660E102489630100522512 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BA660E1224896AB000522512 /* Logo-FamilyLawTools.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Logo-FamilyLawTools.png"; sourceTree = "<group>"; };
 		BAF6298A25ABF6970072EBED /* Terms-of-Service.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Terms-of-Service.pdf"; sourceTree = "<group>"; };
 		BAF6298B25ABF6970072EBED /* Privacy-Policy.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Privacy-Policy.pdf"; sourceTree = "<group>"; };
+		BAF6298F25AC02510072EBED /* EULA.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = EULA.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		BA46FB29257DC2CF0092B3D6 /* app */ = {
 			isa = PBXGroup;
 			children = (
+				BAF6298C25ABFFBA0072EBED /* Baby-Affinity */,
 				BA46FB2A257DC2DE0092B3D6 /* Family-Law-Tools */,
 			);
 			path = app;
@@ -61,9 +62,24 @@
 		BA7CDF93257DB79700EC7D4C /* documents */ = {
 			isa = PBXGroup;
 			children = (
+				BAF6298F25AC02510072EBED /* EULA.pdf */,
 				BAF6298B25ABF6970072EBED /* Privacy-Policy.pdf */,
 				BAF6298A25ABF6970072EBED /* Terms-of-Service.pdf */,
-				BA46FC1D2580993E0092B3D6 /* EULA.pdf */,
+			);
+			path = documents;
+			sourceTree = "<group>";
+		};
+		BAF6298C25ABFFBA0072EBED /* Baby-Affinity */ = {
+			isa = PBXGroup;
+			children = (
+				BAF6298D25ABFFC90072EBED /* documents */,
+			);
+			path = "Baby-Affinity";
+			sourceTree = "<group>";
+		};
+		BAF6298D25ABFFC90072EBED /* documents */ = {
+			isa = PBXGroup;
+			children = (
 			);
 			path = documents;
 			sourceTree = "<group>";
