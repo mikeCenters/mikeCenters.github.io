@@ -121,18 +121,10 @@
 				BA660E102489630100522512 /* README.md */,
 				BA46FB29257DC2CF0092B3D6 /* app */,
 				BA9213B825AE365F00644166 /* assets */,
-				BA660E1124896A6A00522512 /* images */,
 				BA92139E25AE365E00644166 /* images */,
 				BA9213F125AE365F00644166 /* index.html */,
 				BA92139D25AE365E00644166 /* LICENSE.txt */,
 			);
-			sourceTree = "<group>";
-		};
-		BA660E1124896A6A00522512 /* images */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = images;
 			sourceTree = "<group>";
 		};
 		BA7CDF93257DB79700EC7D4C /* documents */ = {
