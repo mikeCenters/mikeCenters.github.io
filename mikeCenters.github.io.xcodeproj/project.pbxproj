@@ -11,7 +11,6 @@
 		BA660E1224896AB000522512 /* Logo-FamilyLawTools.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Logo-FamilyLawTools.png"; sourceTree = "<group>"; };
 		BA92139D25AE365E00644166 /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		BA9213BA25AE365F00644166 /* main.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = main.css; sourceTree = "<group>"; };
-		BA9213BB25AE365F00644166 /* fontawesome-all.min.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "fontawesome-all.min.css"; sourceTree = "<group>"; };
 		BA9213BD25AE365F00644166 /* breakpoints.min.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = breakpoints.min.js; sourceTree = "<group>"; };
 		BA9213BE25AE365F00644166 /* util.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = util.js; sourceTree = "<group>"; };
 		BA9213BF25AE365F00644166 /* jquery.scrolly.min.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = jquery.scrolly.min.js; sourceTree = "<group>"; };
@@ -155,7 +154,6 @@
 			children = (
 				BA9213BA25AE365F00644166 /* main.css */,
 				BACE6EE025AE7895009232D6 /* fontawesome-all.css */,
-				BA9213BB25AE365F00644166 /* fontawesome-all.min.css */,
 			);
 			path = css;
 			sourceTree = "<group>";

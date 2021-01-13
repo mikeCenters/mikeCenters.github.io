@@ -28,3 +28,13 @@ The goal of this project is to provide users with clarity for informed decision 
 
 ## Support
 support.lawtools@icloud.com
+
+Choosing a baby name has never been more fun and exciting! Baby Affinity helps you choose your next baby name in a fun and unique way. As you choose names you like, the app will keep track of the names you choose and assign an Affinity Rating to the name. At any time, analyze the ratings to see the names you may want to choose. Baby Affinity is proud to be the first to introduce a professional rating system to assist with your baby's first important decision.
+
+Features:
+- Affinity Rating System
+- Over 2000 names available!
+- Dark Mode support
+- In-App Support
+- Reset your ratings
+
