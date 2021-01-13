@@ -81,6 +81,14 @@
 		BACE6EED25AE7982009232D6 /* fa-brands-400.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-brands-400.ttf"; sourceTree = "<group>"; };
 		BACE6EEE25AE7982009232D6 /* fa-solid-900.eot */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-solid-900.eot"; sourceTree = "<group>"; };
 		BACE6EEF25AE7982009232D6 /* fa-solid-900.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-solid-900.woff"; sourceTree = "<group>"; };
+		BACE6EF425AF9E4F009232D6 /* BA_Artboard3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BA_Artboard3.png; sourceTree = "<group>"; };
+		BACE6EF525AF9E4F009232D6 /* BA_Artboard4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BA_Artboard4.png; sourceTree = "<group>"; };
+		BACE6EF625AF9E4F009232D6 /* BA_Artboard1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BA_Artboard1.png; sourceTree = "<group>"; };
+		BACE6EF725AF9E4F009232D6 /* BA_Artboard2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BA_Artboard2.png; sourceTree = "<group>"; };
+		BACE6EF825AFB2AD009232D6 /* FLT_Artboard2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FLT_Artboard2.png; sourceTree = "<group>"; };
+		BACE6EF925AFB2AD009232D6 /* FLT_Artboard3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FLT_Artboard3.png; sourceTree = "<group>"; };
+		BACE6EFA25AFB2AD009232D6 /* FLT_Artboard1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FLT_Artboard1.png; sourceTree = "<group>"; };
+		BACE6EFB25AFB2AE009232D6 /* FLT_Artboard4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FLT_Artboard4.png; sourceTree = "<group>"; };
 		BAD967CA25AC16EC00A6A7EA /* Terms-of-Service.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Terms-of-Service.pdf"; sourceTree = "<group>"; };
 		BAD967CB25AC16ED00A6A7EA /* EULA.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = EULA.pdf; sourceTree = "<group>"; };
 		BAD967CC25AC16ED00A6A7EA /* Privacy-Policy.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Privacy-Policy.pdf"; sourceTree = "<group>"; };
@@ -111,6 +119,10 @@
 		BA46FB2B257DC2ED0092B3D6 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				BACE6EFA25AFB2AD009232D6 /* FLT_Artboard1.png */,
+				BACE6EF825AFB2AD009232D6 /* FLT_Artboard2.png */,
+				BACE6EF925AFB2AD009232D6 /* FLT_Artboard3.png */,
+				BACE6EFB25AFB2AE009232D6 /* FLT_Artboard4.png */,
 				BA660E1224896AB000522512 /* Logo-FamilyLawTools.png */,
 			);
 			path = images;
@@ -313,6 +325,10 @@
 		BAD967CD25AC173600A6A7EA /* images */ = {
 			isa = PBXGroup;
 			children = (
+				BACE6EF625AF9E4F009232D6 /* BA_Artboard1.png */,
+				BACE6EF725AF9E4F009232D6 /* BA_Artboard2.png */,
+				BACE6EF425AF9E4F009232D6 /* BA_Artboard3.png */,
+				BACE6EF525AF9E4F009232D6 /* BA_Artboard4.png */,
 			);
 			path = images;
 			sourceTree = "<group>";
