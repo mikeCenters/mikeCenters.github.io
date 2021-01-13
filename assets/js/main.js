@@ -125,6 +125,47 @@
 					}, 600);
 
 			})
+            .on('click', 'aDevice', function(event) {
+
+                var $a = $(this),
+                    $gallery = $a.parents('.gallery'),
+                    $modal = $gallery.children('.modal'),
+                    $modalImg = $modal.find('img'),
+                    href = $a.attr('href');
+
+                // Not an image? Bail.
+                    if (!href.match(/\.(jpg|gif|png|mp4)$/))
+                        return;
+
+                // Prevent default.
+                    event.preventDefault();
+                    event.stopPropagation();
+
+                // Locked? Bail.
+                    if ($modal[0]._locked)
+                        return;
+
+                // Lock.
+                    $modal[0]._locked = true;
+
+                // Set src.
+                    $modalImg.attr('src', href);
+
+                // Set visible.
+                    $modal.addClass('visible');
+
+                // Focus.
+                    $modal.focus();
+
+                // Delay.
+                    setTimeout(function() {
+
+                        // Unlock.
+                            $modal[0]._locked = false;
+
+                    }, 600);
+
+            })
 			.on('click', '.modal', function(event) {
 
 				var $modal = $(this),
