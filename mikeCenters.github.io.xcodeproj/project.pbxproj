@@ -18,21 +18,6 @@
 		BA9213C025AE365F00644166 /* jquery.min.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = jquery.min.js; sourceTree = "<group>"; };
 		BA9213C125AE365F00644166 /* main.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = main.js; sourceTree = "<group>"; };
 		BA9213C225AE365F00644166 /* browser.min.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = browser.min.js; sourceTree = "<group>"; };
-		BA9213C425AE365F00644166 /* fa-solid-900.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-solid-900.ttf"; sourceTree = "<group>"; };
-		BA9213C525AE365F00644166 /* fa-regular-400.svg */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "fa-regular-400.svg"; sourceTree = "<group>"; };
-		BA9213C625AE365F00644166 /* fa-regular-400.woff2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-regular-400.woff2"; sourceTree = "<group>"; };
-		BA9213C725AE365F00644166 /* fa-solid-900.eot */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-solid-900.eot"; sourceTree = "<group>"; };
-		BA9213C825AE365F00644166 /* fa-brands-400.svg */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "fa-brands-400.svg"; sourceTree = "<group>"; };
-		BA9213C925AE365F00644166 /* fa-regular-400.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-regular-400.woff"; sourceTree = "<group>"; };
-		BA9213CA25AE365F00644166 /* fa-brands-400.eot */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-brands-400.eot"; sourceTree = "<group>"; };
-		BA9213CB25AE365F00644166 /* fa-solid-900.svg */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "fa-solid-900.svg"; sourceTree = "<group>"; };
-		BA9213CC25AE365F00644166 /* fa-solid-900.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-solid-900.woff"; sourceTree = "<group>"; };
-		BA9213CD25AE365F00644166 /* fa-regular-400.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-regular-400.ttf"; sourceTree = "<group>"; };
-		BA9213CE25AE365F00644166 /* fa-solid-900.woff2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-solid-900.woff2"; sourceTree = "<group>"; };
-		BA9213CF25AE365F00644166 /* fa-brands-400.woff2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-brands-400.woff2"; sourceTree = "<group>"; };
-		BA9213D025AE365F00644166 /* fa-brands-400.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-brands-400.woff"; sourceTree = "<group>"; };
-		BA9213D125AE365F00644166 /* fa-brands-400.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-brands-400.ttf"; sourceTree = "<group>"; };
-		BA9213D225AE365F00644166 /* fa-regular-400.eot */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-regular-400.eot"; sourceTree = "<group>"; };
 		BA9213D525AE365F00644166 /* _wrapper.scss */ = {isa = PBXFileReference; lastKnownFileType = text; path = _wrapper.scss; sourceTree = "<group>"; };
 		BA9213D725AE365F00644166 /* _functions.scss */ = {isa = PBXFileReference; lastKnownFileType = text; path = _functions.scss; sourceTree = "<group>"; };
 		BA9213D825AE365F00644166 /* _vars.scss */ = {isa = PBXFileReference; lastKnownFileType = text; path = _vars.scss; sourceTree = "<group>"; };
@@ -81,6 +66,22 @@
 		BA92141425AE3A8400644166 /* pic01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic01.jpg; sourceTree = "<group>"; };
 		BA92141625AE3A9F00644166 /* profilepic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = profilepic.jpg; sourceTree = "<group>"; };
 		BA92141825AE562B00644166 /* emsbanner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = emsbanner.png; sourceTree = "<group>"; };
+		BACE6EE025AE7895009232D6 /* fontawesome-all.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "fontawesome-all.css"; sourceTree = "<group>"; };
+		BACE6EE125AE7981009232D6 /* fa-brands-400.woff2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-brands-400.woff2"; sourceTree = "<group>"; };
+		BACE6EE225AE7981009232D6 /* fa-regular-400.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-regular-400.woff"; sourceTree = "<group>"; };
+		BACE6EE325AE7981009232D6 /* fa-regular-400.woff2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-regular-400.woff2"; sourceTree = "<group>"; };
+		BACE6EE425AE7981009232D6 /* fa-solid-900.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-solid-900.ttf"; sourceTree = "<group>"; };
+		BACE6EE525AE7981009232D6 /* fa-regular-400.svg */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "fa-regular-400.svg"; sourceTree = "<group>"; };
+		BACE6EE625AE7981009232D6 /* fa-brands-400.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-brands-400.woff"; sourceTree = "<group>"; };
+		BACE6EE725AE7982009232D6 /* fa-regular-400.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-regular-400.ttf"; sourceTree = "<group>"; };
+		BACE6EE825AE7982009232D6 /* fa-brands-400.eot */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-brands-400.eot"; sourceTree = "<group>"; };
+		BACE6EE925AE7982009232D6 /* fa-solid-900.woff2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-solid-900.woff2"; sourceTree = "<group>"; };
+		BACE6EEA25AE7982009232D6 /* fa-brands-400.svg */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "fa-brands-400.svg"; sourceTree = "<group>"; };
+		BACE6EEB25AE7982009232D6 /* fa-solid-900.svg */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "fa-solid-900.svg"; sourceTree = "<group>"; };
+		BACE6EEC25AE7982009232D6 /* fa-regular-400.eot */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-regular-400.eot"; sourceTree = "<group>"; };
+		BACE6EED25AE7982009232D6 /* fa-brands-400.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-brands-400.ttf"; sourceTree = "<group>"; };
+		BACE6EEE25AE7982009232D6 /* fa-solid-900.eot */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-solid-900.eot"; sourceTree = "<group>"; };
+		BACE6EEF25AE7982009232D6 /* fa-solid-900.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = "fa-solid-900.woff"; sourceTree = "<group>"; };
 		BAD967CA25AC16EC00A6A7EA /* Terms-of-Service.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Terms-of-Service.pdf"; sourceTree = "<group>"; };
 		BAD967CB25AC16ED00A6A7EA /* EULA.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = EULA.pdf; sourceTree = "<group>"; };
 		BAD967CC25AC16ED00A6A7EA /* Privacy-Policy.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Privacy-Policy.pdf"; sourceTree = "<group>"; };
@@ -153,6 +154,7 @@
 			isa = PBXGroup;
 			children = (
 				BA9213BA25AE365F00644166 /* main.css */,
+				BACE6EE025AE7895009232D6 /* fontawesome-all.css */,
 				BA9213BB25AE365F00644166 /* fontawesome-all.min.css */,
 			);
 			path = css;
@@ -174,21 +176,21 @@
 		BA9213C325AE365F00644166 /* webfonts */ = {
 			isa = PBXGroup;
 			children = (
-				BA9213C425AE365F00644166 /* fa-solid-900.ttf */,
-				BA9213C525AE365F00644166 /* fa-regular-400.svg */,
-				BA9213C625AE365F00644166 /* fa-regular-400.woff2 */,
-				BA9213C725AE365F00644166 /* fa-solid-900.eot */,
-				BA9213C825AE365F00644166 /* fa-brands-400.svg */,
-				BA9213C925AE365F00644166 /* fa-regular-400.woff */,
-				BA9213CA25AE365F00644166 /* fa-brands-400.eot */,
-				BA9213CB25AE365F00644166 /* fa-solid-900.svg */,
-				BA9213CC25AE365F00644166 /* fa-solid-900.woff */,
-				BA9213CD25AE365F00644166 /* fa-regular-400.ttf */,
-				BA9213CE25AE365F00644166 /* fa-solid-900.woff2 */,
-				BA9213CF25AE365F00644166 /* fa-brands-400.woff2 */,
-				BA9213D025AE365F00644166 /* fa-brands-400.woff */,
-				BA9213D125AE365F00644166 /* fa-brands-400.ttf */,
-				BA9213D225AE365F00644166 /* fa-regular-400.eot */,
+				BACE6EE825AE7982009232D6 /* fa-brands-400.eot */,
+				BACE6EEA25AE7982009232D6 /* fa-brands-400.svg */,
+				BACE6EED25AE7982009232D6 /* fa-brands-400.ttf */,
+				BACE6EE625AE7981009232D6 /* fa-brands-400.woff */,
+				BACE6EE125AE7981009232D6 /* fa-brands-400.woff2 */,
+				BACE6EEC25AE7982009232D6 /* fa-regular-400.eot */,
+				BACE6EE525AE7981009232D6 /* fa-regular-400.svg */,
+				BACE6EE725AE7982009232D6 /* fa-regular-400.ttf */,
+				BACE6EE225AE7981009232D6 /* fa-regular-400.woff */,
+				BACE6EE325AE7981009232D6 /* fa-regular-400.woff2 */,
+				BACE6EEE25AE7982009232D6 /* fa-solid-900.eot */,
+				BACE6EEB25AE7982009232D6 /* fa-solid-900.svg */,
+				BACE6EE425AE7981009232D6 /* fa-solid-900.ttf */,
+				BACE6EEF25AE7982009232D6 /* fa-solid-900.woff */,
+				BACE6EE925AE7982009232D6 /* fa-solid-900.woff2 */,
 			);
 			path = webfonts;
 			sourceTree = "<group>";
