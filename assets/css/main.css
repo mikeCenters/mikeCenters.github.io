@@ -185,6 +185,20 @@ input, select, textarea {
 			border-bottom-color: transparent;
 		}
 
+    aDevice {
+        -moz-transition: border-bottom-color 0.25s ease-in-out;
+        -webkit-transition: border-bottom-color 0.25s ease-in-out;
+        -ms-transition: border-bottom-color 0.25s ease-in-out;
+        transition: border-bottom-color 0.25s ease-in-out;
+        text-decoration: none;
+        color: #000000;
+        cursor: pointer;
+    }
+
+        aDevice:hover {
+            text-decoration: none;
+        }
+
 	strong, b {
 		font-weight: 600;
 		color: #000000;
@@ -2964,6 +2978,36 @@ input, select, textarea {
 				height: 30vw;
 			}
 
+        .gallery aDevice {
+            border-bottom: 0;
+            display: block;
+            margin: 1.25rem 0 0 1.25rem;
+            outline: 0;
+            position: relative;
+            width: calc(50% - 1.25rem);
+        }
+
+            .gallery aDevice img {
+                display: block;
+/*                height: 25vw;*/
+                min-height: 18rem;
+                object-fit: cover;
+                object-position: center;
+                width: 100%;
+            }
+
+            .gallery aDevice.landscape {
+                width: 100%;
+            }
+
+                .gallery aDevice.landscape img {
+                    height: 30vw;
+                }
+
+            .gallery aDevice.portrait img {
+                height: 30vw;
+            }
+
 		.gallery .modal {
 			display: -moz-flex;
 			display: -webkit-flex;
@@ -3135,6 +3179,23 @@ input, select, textarea {
 					.gallery a.portrait img {
 						height: 30rem;
 					}
+            
+            .gallery aDevice {
+                margin: 0.625rem 0 0 0.625rem;
+                width: calc(50% - 0.625rem);
+            }
+
+                .gallery aDevice img {
+                    height: 20rem;
+                }
+
+                .gallery aDevice.landscape img {
+                    height: 20rem;
+                }
+
+                .gallery aDevice.portrait img {
+                    height: 30rem;
+                }
 
 		}
 
@@ -3152,7 +3213,19 @@ input, select, textarea {
 			.gallery a.portrait img {
 				height: 14rem;
 			}
+            
+            .gallery aDevice img {
+                height: 12rem;
+                min-height: 0;
+            }
 
+            .gallery aDevice.landscape img {
+                height: 12rem;
+            }
+
+            .gallery aDevice.portrait img {
+                height: 14rem;
+            }
 		}
 
 /* Feature Icons */
