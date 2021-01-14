@@ -2650,6 +2650,15 @@ input, select, textarea {
 			opacity: 0.25;
 		}
 
+    .appleBadge a {
+        text-decoration: none !important;
+           border:0px !important;
+           outline:none;
+           border-width: 0px;
+           outline-width:0px;
+           border-bottom: none;
+    }
+
 /* Features */
 
     .hero {
