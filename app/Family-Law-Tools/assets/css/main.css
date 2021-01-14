@@ -2657,10 +2657,11 @@ input, select, textarea {
         border-width: 0px;
         outline-width:0px;
         border-bottom: none;
+        max-width: 30%
     }
 
         .appleBadge a img {
-            width: 40%;
+            width: 30%;
         }
 
 
@@ -2672,10 +2673,13 @@ input, select, textarea {
         padding-left: 20px;
     }
 
-        .hero img {
+    .hero img {
+        display: inline-block;
+        max-height: 100%;
+        max-width: 100%;
+    }
+        .hero .image img {
             display: inline-block;
-            height: 100%;
-            width: 100%;
             
         }
         
