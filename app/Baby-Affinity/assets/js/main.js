@@ -200,10 +200,93 @@
                     }, 600);
 
             })
-            .on('click', 'aDevice', function(event) {
+            .on('click', '.modal', function(event) {
+
+                var $modal = $(this),
+                    $modalImg = $modal.find('img');
+
+                // Locked? Bail.
+                    if ($modal[0]._locked)
+                        return;
+
+                // Already hidden? Bail.
+                    if (!$modal.hasClass('visible'))
+                        return;
+
+                // Stop propagation.
+                    event.stopPropagation();
+
+                // Lock.
+                    $modal[0]._locked = true;
+
+                // Clear visible, loaded.
+                    $modal
+                        .removeClass('loaded')
+
+                // Delay.
+                    setTimeout(function() {
+
+                        $modal
+                            .removeClass('visible')
+
+                        setTimeout(function() {
+
+                            // Clear src.
+                                $modalImg.attr('src', '');
+
+                            // Unlock.
+                                $modal[0]._locked = false;
+
+                            // Focus.
+                                $body.focus();
+
+                        }, 475);
+
+                    }, 125);
+
+            })
+            .on('keypress', '.modal', function(event) {
+
+                var $modal = $(this);
+
+                // Escape? Hide modal.
+                    if (event.keyCode == 27)
+                        $modal.trigger('click');
+
+            })
+            .on('mouseup mousedown mousemove', '.modal', function(event) {
+
+                // Stop propagation.
+                    event.stopPropagation();
+
+            })
+            .prepend('<div class="modal" tabIndex="-1"><div class="inner"><img src="" /></div></div>')
+                .find('img')
+                    .on('load', function(event) {
+
+                        var $modalImg = $(this),
+                            $modal = $modalImg.parents('.modal');
+
+                        setTimeout(function() {
+
+                            // No longer visible? Bail.
+                                if (!$modal.hasClass('visible'))
+                                    return;
+
+                            // Set loaded.
+                                $modal.addClass('loaded');
+
+                        }, 275);
+
+                    });
+
+    
+    // Hero.
+        $('.hero')
+            .on('click', 'a', function(event) {
 
                 var $a = $(this),
-                    $gallery = $a.parents('.gallery'),
+                    $gallery = $a.parents('.hero'),
                     $modal = $gallery.children('.modal'),
                     $modalImg = $modal.find('img'),
                     href = $a.attr('href');
@@ -320,5 +403,7 @@
                         }, 275);
 
                     });
-
+    
+    
+    
 })(jQuery);
