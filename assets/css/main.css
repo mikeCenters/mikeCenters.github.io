@@ -2989,7 +2989,6 @@ input, select, textarea {
 
             .gallery aDevice img {
                 display: block;
-/*                height: 25vw;*/
                 min-height: 18rem;
                 object-fit: cover;
                 object-position: center;
