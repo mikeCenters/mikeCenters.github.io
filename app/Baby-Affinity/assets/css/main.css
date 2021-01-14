@@ -2188,12 +2188,12 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+            border-radius: 24%;
 			overflow: hidden;
 		}
 
 			.image.avatar img {
-				border-radius: 100%;
+				border-radius: 24%;
 				display: block;
 				width: 100%;
 			}
@@ -2652,19 +2652,23 @@ input, select, textarea {
 
     .appleBadge a {
         text-decoration: none !important;
-           border:0px !important;
-           outline:none;
-           border-width: 0px;
-           outline-width:0px;
-           border-bottom: none;
+        border:0px !important;
+        outline:none;
+        border-width: 0px;
+        outline-width:0px;
+        border-bottom: none;
+        width: 30%;
     }
 
-/* Features */
+        .appleBadge a img {
+            width: 30%;
+        }
+
 
     .hero {
         float: right;
         max-height:100%;
-        max-width: 30%;
+        max-width: 40%;
         vertical-align: top;
         padding-left: 20px;
     }
@@ -2679,6 +2683,9 @@ input, select, textarea {
         .hero a {
             border:0px !important;
         }
+
+
+/* Features */
 
 	.features article {
 		border-top: solid 3px #f4f4f4;
