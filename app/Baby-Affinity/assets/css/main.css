@@ -2657,11 +2657,10 @@ input, select, textarea {
         border-width: 0px;
         outline-width:0px;
         border-bottom: none;
-        width: 30%;
     }
 
         .appleBadge a img {
-            width: 30%;
+            width: 40%;
         }
 
 
