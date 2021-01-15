@@ -3184,10 +3184,6 @@ input, select, textarea {
                 width: calc(50% - 0.625rem);
             }
 
-                .gallery aDevice img {
-                    height: 20rem;
-                }
-
                 .gallery aDevice.landscape img {
                     height: 20rem;
                 }
