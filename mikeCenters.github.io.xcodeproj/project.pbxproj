@@ -148,6 +148,15 @@
 		BAF6298A25ABF6970072EBED /* Terms-of-Service.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Terms-of-Service.pdf"; sourceTree = "<group>"; };
 		BAF6298B25ABF6970072EBED /* Privacy-Policy.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Privacy-Policy.pdf"; sourceTree = "<group>"; };
 		BAF6298F25AC02510072EBED /* EULA.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = EULA.pdf; sourceTree = "<group>"; };
+		BAFD950425BBF848007B65FA /* sitemap.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = sitemap.xml; sourceTree = "<group>"; };
+		BAFD950525BBF8B6007B65FA /* App Store 2 - 5.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 2 - 5.5.png"; sourceTree = "<group>"; };
+		BAFD950625BBF8B6007B65FA /* App Store 4 - 5.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 4 - 5.5.png"; sourceTree = "<group>"; };
+		BAFD950725BBF8B6007B65FA /* App Store 2 - 6.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 2 - 6.5.png"; sourceTree = "<group>"; };
+		BAFD950825BBF8B6007B65FA /* App Store 3 - 6.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 3 - 6.5.png"; sourceTree = "<group>"; };
+		BAFD950925BBF8B7007B65FA /* App Store 1 - 6.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 1 - 6.5.png"; sourceTree = "<group>"; };
+		BAFD950A25BBF8B7007B65FA /* App Store 4 - 6.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 4 - 6.5.png"; sourceTree = "<group>"; };
+		BAFD950B25BBF8B7007B65FA /* App Store 1 - 5.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 1 - 5.5.png"; sourceTree = "<group>"; };
+		BAFD950C25BBF8B7007B65FA /* App Store 3 - 5.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 3 - 5.5.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -195,6 +204,7 @@
 				BA9213FC25AE3A8400644166 /* images */,
 				BA9213B825AE365F00644166 /* assets */,
 				BA9213F125AE365F00644166 /* index.html */,
+				BAFD950425BBF848007B65FA /* sitemap.xml */,
 				BA92139D25AE365E00644166 /* LICENSE.txt */,
 			);
 			sourceTree = "<group>";
@@ -418,6 +428,14 @@
 		BAD967CD25AC173600A6A7EA /* images */ = {
 			isa = PBXGroup;
 			children = (
+				BAFD950B25BBF8B7007B65FA /* App Store 1 - 5.5.png */,
+				BAFD950925BBF8B7007B65FA /* App Store 1 - 6.5.png */,
+				BAFD950525BBF8B6007B65FA /* App Store 2 - 5.5.png */,
+				BAFD950725BBF8B6007B65FA /* App Store 2 - 6.5.png */,
+				BAFD950C25BBF8B7007B65FA /* App Store 3 - 5.5.png */,
+				BAFD950825BBF8B6007B65FA /* App Store 3 - 6.5.png */,
+				BAFD950625BBF8B6007B65FA /* App Store 4 - 5.5.png */,
+				BAFD950A25BBF8B7007B65FA /* App Store 4 - 6.5.png */,
 				BACE6F2925AFC3A6009232D6 /* Download_on_the_App_Store_Badge_blk.svg */,
 				BACE6F2825AFBFD7009232D6 /* Download_on_the_App_Store_Badge_wht.svg */,
 				BACE6F2D25B0DB4F009232D6 /* banner.png */,
