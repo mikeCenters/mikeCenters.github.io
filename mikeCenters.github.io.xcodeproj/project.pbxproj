@@ -153,6 +153,10 @@
 		BAFD950825BBF8B6007B65FA /* App Store 3 - 6.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 3 - 6.5.png"; sourceTree = "<group>"; };
 		BAFD950925BBF8B7007B65FA /* App Store 1 - 6.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 1 - 6.5.png"; sourceTree = "<group>"; };
 		BAFD950A25BBF8B7007B65FA /* App Store 4 - 6.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 4 - 6.5.png"; sourceTree = "<group>"; };
+		BAFD952125BC1A82007B65FA /* App Store 1 - 5.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 1 - 5.5.png"; sourceTree = "<group>"; };
+		BAFD952225BC1A89007B65FA /* App Store 2 - 5.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 2 - 5.5.png"; sourceTree = "<group>"; };
+		BAFD952325BC1A90007B65FA /* App Store 3 - 5.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 3 - 5.5.png"; sourceTree = "<group>"; };
+		BAFD952425BC1A96007B65FA /* App Store 4 - 5.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 4 - 5.5.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -424,6 +428,10 @@
 		BAD967CD25AC173600A6A7EA /* images */ = {
 			isa = PBXGroup;
 			children = (
+				BAFD952125BC1A82007B65FA /* App Store 1 - 5.5.png */,
+				BAFD952225BC1A89007B65FA /* App Store 2 - 5.5.png */,
+				BAFD952325BC1A90007B65FA /* App Store 3 - 5.5.png */,
+				BAFD952425BC1A96007B65FA /* App Store 4 - 5.5.png */,
 				BAFD950925BBF8B7007B65FA /* App Store 1 - 6.5.png */,
 				BAFD950725BBF8B6007B65FA /* App Store 2 - 6.5.png */,
 				BAFD950825BBF8B6007B65FA /* App Store 3 - 6.5.png */,
