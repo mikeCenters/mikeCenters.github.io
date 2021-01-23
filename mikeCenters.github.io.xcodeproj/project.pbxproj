@@ -157,6 +157,7 @@
 		BAFD952225BC1A89007B65FA /* App Store 2 - 5.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 2 - 5.5.png"; sourceTree = "<group>"; };
 		BAFD952325BC1A90007B65FA /* App Store 3 - 5.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 3 - 5.5.png"; sourceTree = "<group>"; };
 		BAFD952425BC1A96007B65FA /* App Store 4 - 5.5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "App Store 4 - 5.5.png"; sourceTree = "<group>"; };
+		BAFD952525BC1B23007B65FA /* banner2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = banner2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -439,6 +440,7 @@
 				BACE6F2925AFC3A6009232D6 /* Download_on_the_App_Store_Badge_blk.svg */,
 				BACE6F2825AFBFD7009232D6 /* Download_on_the_App_Store_Badge_wht.svg */,
 				BACE6F2D25B0DB4F009232D6 /* banner.png */,
+				BAFD952525BC1B23007B65FA /* banner2.png */,
 				BACE6F2B25B0D507009232D6 /* appIcon.png */,
 				BAEBA7FF25B11DD900D0E7DA /* BA_Artboard1.png */,
 				BAEBA80125B11DD900D0E7DA /* BA_Artboard2.png */,
